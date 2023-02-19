@@ -1,1 +1,4 @@
-# lab4b-stopwatch_app
+# StopWatchSecsOnly
+
+JavaScript Stopwatch handles seconds and tenths of seconds only
+Doesn't increment to minutes or hours
